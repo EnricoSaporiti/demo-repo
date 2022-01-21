@@ -12,9 +12,8 @@ var fetchSomeData = new Promise( ( resolve, reject) => {
     resolve( {
         id: 1,
         message: 'nice work!',
-    }
-
-        )
+    } )
+    
 } );
 
 
